@@ -11,6 +11,6 @@
         "LabeledStatement",
         "WithStatement"
       ],
-      "linebreak-style": "off"
+      "linebreak-style": ["error", "unix"]
     }
   }
